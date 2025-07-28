@@ -3,3 +3,4 @@
 
 # Except the heatmap folder
 !/heatmap/
+!/slope/
