@@ -1,6 +1,9 @@
 # Ignore all root-level folders
 /*/
 
-# Except the heatmap folder
-!/heatmap/
-!/ride-nt.sqlitedb
+# Keep ride tiles
+!/ride/
+
+# Track DB files
+!/db/
+!/db/*.sqlitedb
