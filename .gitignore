@@ -3,7 +3,3 @@
 
 # Keep ride tiles
 !/ride/
-
-# Track DB files
-!/db/
-!/db/*.sqlitedb
